@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ArtGalleryApp() {
-    // Lista de obras com título, imagem e descrição
+
     val artworks = listOf(
         "Abaporu - Tarsila do Amaral" to Pair(
             R.drawable.artwork1,
